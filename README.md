@@ -1,6 +1,6 @@
 # Face_Generation--Udacity
 
-Deep learning Course Project 4 : In this project,I used generative adversarial networks to train a DCGAN to generate new images of faces.
+Deep learning Course Project 4 : In this project, I used generative adversarial networks to train a DCGAN to generate new images of faces.
 
 ### Introduction
 The goal is to get a generator network to generate *new* images of faces that look as realistic as possible!
